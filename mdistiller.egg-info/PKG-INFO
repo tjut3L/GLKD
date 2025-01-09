@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: mdistiller
+Version: 0.1
+Summary: A Deep Learning Toolkit for Knowledge Distillation.
+Home-page: UNKNOWN
+Author: zhaoborui
+License: UNKNOWN
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+MDistiller: a deep learning toolkit for knowledge distillation.
+
+
